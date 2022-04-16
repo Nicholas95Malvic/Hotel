@@ -1,0 +1,106 @@
+body {
+  background-color: white;
+  padding: 0;
+  ;
+}
+
+h1 {
+  font-family: "Martel";
+}
+
+h2 {
+  text-align: center;
+}
+
+a {
+  font-family: "Bree Serif"
+}
+
+.row {
+  font-family: "Bree Serif";
+}
+
+.nav-brand {
+  padding-left: 30rem;
+  font-family: "Dancing Script";
+  font-weight: bold;
+  font-size: 5rem;
+  text-align: right;
+}
+
+.title {
+  background-color: #292F36;
+  color: #F7FFF7;
+  margin: 0 auto 0 auto;
+  font-size: 4rem;
+  padding: 2rem;
+  font-family: "Martel"
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #292F36;
+  position: fixed;
+  color: #4ECDC4;
+}
+li {
+  float: left;
+  margin: 0;
+  text-decoration: none;
+  color: #4ECDC4;
+}
+
+li a {
+  display: block;
+  color: #4ECDC4;
+  padding: 1rem 1rem;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.5rem;
+  margin: 0;
+}
+
+li a:hover {
+  background-color: #4ECDC4;
+  color: #292F36;
+  text-decoration: none;
+  border-radius: 15px;
+}
+
+.active {
+  background-color: #292F36;
+  text-decoration: none;
+  color: #4ECDC4;
+}
+
+#home {
+  background-color: #F7FFF7;
+  margin: 0;
+  padding: 2rem;
+  text-align: cener;
+}
+
+.download-image {
+  width: 10%;
+  padding-top: 2rem;
+}
+
+.book {
+  width: 10%;
+  padding-top: 2rem;
+}
+
+#carouselDark {
+  width: 100%;
+  background-color: white;
+}
+
+.header {
+  width: 50%;
+  padding-top: 7rem;
+  color: #292F36;
+  text-decoration: none;
+}
